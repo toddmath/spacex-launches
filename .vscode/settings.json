@@ -1,0 +1,10 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.referencesCodeLens.enabled": false,
+  "typescript.implementationsCodeLens.enabled": true,
+  "typescript.referencesCodeLens.showOnAllFunctions": true,
+  "typescript.preferences.useAliasesForRenames": true,
+  "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+  "deno.enable": false
+}

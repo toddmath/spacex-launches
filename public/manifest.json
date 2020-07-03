@@ -1,0 +1,21 @@
+{
+  "name": "🚀SpaceX Launches and Rockets",
+  "short_name": "🚀SpaceX Launches",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#02c59b",
+  "background_color": "#011628",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
