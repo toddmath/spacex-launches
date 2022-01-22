@@ -25,7 +25,7 @@
     "isomorphic-unfetch": "^3.0.0",
     "masonic": "^3.2.0",
     "moment": "^2.27.0",
-    "nanoid": "^3.1.10",
+    "nanoid": "^3.1.31",
     "next": "9.4.4",
     "next-compose-plugins": "^2.2.0",
     "next-optimized-images": "^2.6.1",
