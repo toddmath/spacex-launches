@@ -57,7 +57,7 @@
     "imagemin-optipng": "^8.0.0",
     "lqip-loader": "^2.2.0",
     "responsive-loader": "^1.2.0",
-    "sharp": "^0.25.4",
+    "sharp": "^0.30.5",
     "typescript": "^3.9.5",
     "typescript-styled-plugin": "^0.15.0",
     "webp-loader": "^0.6.0"
